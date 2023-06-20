@@ -1,6 +1,6 @@
-# netflix_data_analysis
+# light netflix_data_analysis
 ## Description
-analyse data with the intention to filter and understanding the globe outlook of the company.  
+a light analyse data with the intention to filter and understanding the globe outlook of the company.  
 
 ## Conclusion
 - One - best time to expect new releases will be around spring when demand is low especically, when they have now added a standard with adverts plan to increase revenue during there lowest revenue months.
