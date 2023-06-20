@@ -1,4 +1,4 @@
-# light netflix_data_analysis
+# light_netflix_data_analysis
 ## Description
 a light analyse data with the intention to filter and understanding the globe outlook of the company.  
 
